@@ -1,0 +1,3 @@
+*.sassc
+.ruby-*
+.DS_Store
